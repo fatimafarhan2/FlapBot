@@ -190,8 +190,9 @@ Trained models are saved in the `runs/` directory with names like:
 
 ## License
 
-[Add your license here]
+No license yet. All rights reserved.
 
 ## Author
 
-[Your name/organization]
+Fatima Farhan  
+GitHub: [https://github.com/fatimafarhan2](https://github.com/fatimafarhan2)  
