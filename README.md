@@ -33,7 +33,7 @@ git clone <repository-url>
 cd flappy-bird
 
 # Create and activate virtual environment (optional but recommended)
-conda create -n dqnenv python=3.10
+conda create -n dqnenv python=3.11
 conda activate dqnenv
 
 # Install dependencies
